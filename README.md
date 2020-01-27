@@ -11,6 +11,7 @@
    - overflow.py
    - conditions.py
    - answer.py
+4. In the terminal, type `ls` to show the contents of your "chapter 6" directory. Confirm that each of the files listed above is shown.
 4. Answer the wrap-up questions posted with this assignment in google classroom.
 
 **Definition of Done = You did all the steps above and you clicked "Turn in" for this assignment in google classroom.**
